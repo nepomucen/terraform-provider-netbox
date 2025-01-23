@@ -4,6 +4,8 @@ go 1.21
 
 toolchain go1.21.7
 
+replace github.com/smutel/go-netbox/v3 v3.4.0 => github.com/nepomucen/go-netbox/v3 v3.4.1
+
 require (
 	github.com/go-openapi/runtime v0.27.1
 	github.com/go-openapi/strfmt v0.22.0

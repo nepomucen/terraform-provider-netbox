@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [7.1.2] (2025-01-23)
+
+
+### Bug Fixes
+
+* PProvider is crashing on netbox_json_dcim_devices_list data with Netbox v4.x ([elo](https://github.com/nepomucen/go-netbox/pull/1/commits/99d69ba01e143a93f52f0f85b80cfabc52cea610#diff-8f1f96d48ce147587dc8b4d0e54b2f5e2f0370bbd1d10f07aebb26afe6c57843))
+
 ### [7.1.1](https://github.com/smutel/terraform-provider-netbox/compare/v7.1.0...v7.1.1) (2023-10-20)
 
 
